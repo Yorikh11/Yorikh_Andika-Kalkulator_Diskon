@@ -25,8 +25,14 @@
                 <mxCell id="7" value="Harga Sepatu" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
                     <mxGeometry x="260" y="320" width="120" height="60" as="geometry"/>
                 </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="9" value="Total&amp;nbsp; = Harga * Jumlah" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="260" y="410" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Total &amp;gt; 2 juta" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="500" width="80" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
