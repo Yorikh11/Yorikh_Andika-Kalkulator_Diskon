@@ -14,3 +14,4 @@ ELSE "Total" LESS THAN "2 JUTA"
     DISPLAY "Tidak Diskon"
     DISPLAY "Harga Akhir" WITH "Total"
     DISPLAY "Harga Akhir"
+END IF
