@@ -6,3 +6,6 @@ Kalkulator ini digunakan untuk menghitung total diskon yang digunakan oleh pembe
 - Flowchart.drawio
 - README.md
 - Pseudocode.txt
+
+Dikerjakan oleh :
+- 'Yorikh Andika - BE3015374'
